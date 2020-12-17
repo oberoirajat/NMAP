@@ -1,2 +1,2 @@
 #!/bin/bash
-yum install nmap -y
+sudo yum install nmap -y
